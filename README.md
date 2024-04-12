@@ -1,8 +1,8 @@
-# swin-adventure-oop-program
+# Swin adventure console game with unit test
 
 ## Vision
 
-Swin-Adventure will provide hours of interactive fun for Swinburne students who want to be entertained during lectures on their notebooks. Swin-Adventure is a console based adventure game that allows people to explore a fantasy world instead of listening to lectures.
+Swin-Adventure is a text-based adventure game that immerses players in a fantasy world filled with exploration and discovery. Leveraging object-oriented programming principles, the game provides a rich experience where players can interact with various objects, navigate through diverse locations, and unravel the mysteries of the game world. To ensure robustness and reliability, the project is accompanied by a comprehensive suite of unit tests that validate the functionality of key components.
 
 ## The Maze Game
 
@@ -95,3 +95,5 @@ You look in the bag and see:
 Command -> quit
 Bye.
 ```
+
+

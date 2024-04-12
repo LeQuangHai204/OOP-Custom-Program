@@ -10,7 +10,7 @@ Swin-Adventure is a fantasy adventure game that consists of a number of intercon
 
 ## User Interaction
 
-A typical game look like this (two column display):
+A typical game look like this:
 
 ```
 Welcome to Swin Adventure!

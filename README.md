@@ -1,12 +1,13 @@
 # swin-adventure-oop-program
 
-##Vision
+## Vision
 Swin-Adventure will provide hours of interactive fun for Swinburne students who want to be entertained during lectures on their notebooks. Swin-Adventure is a console based adventure game that allows people to explore a fantasy world instead of listening to lectures.
 
-##The Maze Game
+## The Maze Game
 Swin-Adventure is a fantasy adventure game that consists of a number of interconnected locations. The player exists within one of the locations within the world, and moves between these locations using paths. The goal of the game is for the player to reach a specified location within the world. There may also be other locations in the world where the game ends unsuccessfully for the player. The locations within the world each have a title, a textual description, and a number of paths. Each path in a location heads in a certain direction, has a textual description, and is linked to a destination location. Swin-Adventure supports ten directions eight representing points on a compass as well as up and down.
 
-##User Interaction
+## User Interaction
+'''code
 A typical game look like this (two column display):
 Welcome to Swin Adventure!
 You have arrived in the Hallway
@@ -87,3 +88,4 @@ You look in the bag and see:
  a bronze sword (sword)
 Command -> quit
 Bye.
+'''

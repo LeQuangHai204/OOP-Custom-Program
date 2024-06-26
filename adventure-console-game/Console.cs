@@ -175,9 +175,9 @@ namespace SwinAdventure
         }
         public static void Main()
         {
-            string locFile = @"..\..\..\location.csv";
-            string pathFile = @"..\..\..\path.csv";
-            string itemFile = @"..\..\..\item.csv";
+            string locFile = @"location.csv";
+            string pathFile = @"path.csv";
+            string itemFile = @"item.csv";
             try
             {
                 Map map = CreateMap(locFile, pathFile);

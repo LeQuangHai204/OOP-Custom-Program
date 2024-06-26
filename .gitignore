@@ -1,0 +1,35 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore NuGet packages directory
+packages/
+
+# Ignore user-specific files
+*.userprefs
+*.usertasks
+
+# Ignore build artifacts
+*.exe
+*.pdb
+*.dll
+*.log
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore Node.js files if used in project
+node_modules/
+

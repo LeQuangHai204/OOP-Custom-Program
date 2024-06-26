@@ -1,5 +1,4 @@
-﻿using SplashKitSDK;
-using System.Linq.Expressions;
+﻿using System.Linq.Expressions;
 using System.Timers;
 
 namespace SwinAdventure
